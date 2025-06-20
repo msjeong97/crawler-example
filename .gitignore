@@ -1,0 +1,5 @@
+.idea/*
+*.csv
+
+.python-version
+.DS_Store
